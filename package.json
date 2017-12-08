@@ -1,0 +1,23 @@
+{
+  "name": "magenerds-magento2",
+  "description": "Magenerds Magento 2 on docker",
+  "version": "1.0.0",
+  "author": "Florian Sydekum <f.sydekum@techdivision.com>",
+  "maintainers": [
+    {
+      "email": "f.sydekum@techdivision.com",
+      "name": "Florian Sydekum"
+    }
+  ],
+  "dependencies": {
+    "del": "^2.2.0",
+    "gulp": "~3.9.1",
+    "gulp-util": "~3.0.7",
+    "gulp-watch": "^4.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magenerds/docker-magento2.git"
+  },
+  "license": "OSL-3.0"
+}
